@@ -1,1 +1,0 @@
-# Sql_retail_sale_project
